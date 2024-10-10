@@ -1,4 +1,4 @@
-### JARVIS - VOICE-ACTIVATED VIRTUAL ASSISTANT
+# JARVIS - VOICE-ACTIVATED VIRTUAL ASSISTANT
 
 1. Developed a Voice-Activated Assistant: Built a Python-based virtual assistant using speech_recognition, pyttsx3, and gTTS for speech recognition, speech synthesis, and text-to-speech functionalities.
 
