@@ -84,3 +84,7 @@ music, fetching news, or generating a response via OpenAI.
 
 • os
 
+• cv2
+
+• subprocess
+
